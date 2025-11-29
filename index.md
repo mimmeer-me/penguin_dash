@@ -16,4 +16,4 @@ This repository does **NOT** host the database; as that will be handled on a Mon
 ## Play PenguinDash!
 To try Penguin Dash, use the link below!
 
-[![Play Now Button](https://img.shields.io/badge/play%20now!-32CD32?style=for-the-badge)](game/index.html)
+[![Play Now Button](https://img.shields.io/badge/play%20now!-32CD32?style=for-the-badge)](game/index.md)
