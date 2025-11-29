@@ -1,0 +1,8 @@
+[
+  {
+    "_comment-0": "This file contains all allowed domains for Penguin Dash to run on. In order to add your domain; please send a GitHub issue or pull request.",
+    "_comment-1": "For your website to be accepted; it must *not* be a domain that contains any website causing confusion between the real game and your domain."
+  },
+  "studio.penguinmod.com",
+  "mimmeer-me.github.io"
+]
