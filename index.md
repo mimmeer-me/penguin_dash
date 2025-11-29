@@ -9,8 +9,8 @@ layout: home
 [//]: # (Yes I know it's the wrong icon)
 
 
-## This branch
-This branch stores the assets for Penguin Dash that are static, which means they do not change.
+## About
+The Penguin Dash Static Server, as the name implies, stores the assets for Penguin Dash that are static, which means they do not change.
 This repository does **NOT** host the database; as that will be handled on a MongoDB server instead.
 
 ## Play PenguinDash!
