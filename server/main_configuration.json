@@ -1,0 +1,25 @@
+{
+  "comments": {
+    "__0": "This file contains some of the configuration for Penguin Dash's physics.",
+    "__1": "This file is immediately cached upon first load.",
+    "__2": "I don't know what the units are, the code will work that out."
+  },
+  "base": {
+    "gamemodes_conf": [
+      {
+        "id": "cube",
+        "hold_type": "action",
+        "action_type": "jump"
+      }
+    ],
+    "speeds_bps": {
+      1: "10.415"
+    }
+  },
+  "cube": {
+    "gravity": 0.6,
+    "jump.height": 11,
+    "big_multiplier": 1,
+    "small_multiplier": 0.6
+  }
+}
